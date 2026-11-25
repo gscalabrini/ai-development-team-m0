@@ -1,0 +1,1 @@
+valor = 'sem-aprovacao'
